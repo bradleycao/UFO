@@ -8,8 +8,12 @@ In this project, I created a table to organize UFO data stored as a JavaScript a
 
 To perform the search, user can enter their desire values on the Filter Search section-left side of the table. After entering a value, the table will automatically be filtered to match with the user's selections.
 
+![Original Data](Resources/Original.png)
+![Filtered Data](Resources/Filtered.png)
+
 To go back to the original table, either remove current values in the Filter Search section, click F5 on the keyboard, or click the title UFO Sightings on the top left of the web page.
 
+![Refresh the Page](Resources/Refresh.png)
 
 ## Summary:
 
